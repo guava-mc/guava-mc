@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 This is a repo I use for school assignments and dabbling in my freetime. More active at [bt-macole](https://github.com/bt-macole)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bt-macole](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bt-macole)](https://github.com/anuraghazra/github-readme-stats)
